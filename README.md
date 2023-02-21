@@ -14,8 +14,30 @@ A list of all species is provided in [species_list.txt](https://github.com/susbo
 7. gag ORF present
 8. pol ORF present
 9. Count (buildSummary.pl)
-10. Hits (blastn hits covering at least 80nt and 50% of query length)
+10. Hits (blastn hits covering at least 80 nt and 50% of query length)
 11. Coverage (buildSummary.pl)
 12. Coverage (calcDivergenceFromAlign.pl)
 13. Kimura divergence (calcDivergenceFromAlign.pl)
 14. Length
+
+## How were the libraries generated?
+
+Description of how the transposon libraries were generated is available at [https://github.com/susbo/Uni-strand_clusters](https://github.com/susbo/Uni-strand_clusters).
+
+## Version
+
+The current version is 0.1. For other the versions, see the [releases on this repository](https://github.com/susbo/Uni-stand_clusters/releases).
+
+## Authors
+
+* **Susanne Bornelöv** - [susbo](https://github.com/susbo)
+* **Jasper van Lopik** - [Jvanlopik](https://github.com/JvanLopik)
+
+## License
+
+This project is licensed under the  GNU GPLv3 License - see the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use these scripts and pipelines, please cite our preprint:
+
