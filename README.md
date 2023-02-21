@@ -20,7 +20,7 @@ A list of all species is provided in [species_list.txt](https://github.com/susbo
 13. Kimura divergence (calcDivergenceFromAlign.pl)
 14. Length
 
-## How were the libraries generated?
+## Generation of transposon libraries
 
 Description of how the transposon libraries were generated is available at [https://github.com/susbo/Uni-strand_clusters](https://github.com/susbo/Uni-strand_clusters).
 
