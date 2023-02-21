@@ -10,9 +10,9 @@ A list of all species is provided in [species_list.txt](https://github.com/susbo
 3. Predicted subfamily (95/80/98)
 4. Predicted subfamily (90/80/90)
 5. Predicted subfamily (80/80/80)
-6. env ORF present
-7. gag ORF present
-8. pol ORF present
+6. *env* ORF present
+7. *gag* ORF present
+8. *pol* ORF present
 9. Count (buildSummary.pl)
 10. Hits (blastn hits covering at least 80 nt and 50% of query length)
 11. Coverage (buildSummary.pl)
