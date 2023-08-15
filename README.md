@@ -40,8 +40,6 @@ This project is licensed under the  GNU GPLv3 License - see the [LICENSE](LICENS
 ## Citation
 
 If you use these scripts and pipelines, please cite our preprint:
-Unistrand piRNA clusters are an evolutionary conserved mechanism to suppress endogenous retroviruses across the Drosophila genus
-
-Jasper van Lopik, Maria-Anna Trapotsi, Gregory J. Hannon, Susanne Bornelöv, Benjamin Czech Nicholson
-
+Unistrand piRNA clusters are an evolutionary conserved mechanism to suppress endogenous retroviruses across the Drosophila genus 
+Jasper van Lopik, Maria-Anna Trapotsi, Gregory J. Hannon, Susanne Bornelöv, Benjamin Czech Nicholson 
 *bioRxiv* 2023.02.27.530199; doi: [https://doi.org/10.1101/2023.02.27.530199](https://doi.org/10.1101/2023.02.27.530199)
