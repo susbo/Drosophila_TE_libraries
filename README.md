@@ -26,7 +26,7 @@ Description of how the transposon libraries were generated is available at [http
 
 ## Version
 
-The current version is 0.1. For all versions, see the [releases on this repository](https://github.com/susbo/Uni-stand_clusters/releases).
+The current version is 0.1. For all versions, see the [releases on this repository](https://github.com/susbo/Drosophila_TE_libraries/releases).
 
 ## Authors
 
